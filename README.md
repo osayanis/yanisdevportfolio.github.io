@@ -1,11 +1,11 @@
 
 # Portfolio de Yanis Boussaid
 
-## À propos
+##📍 À propos
 
 Portfolio professionnel présentant mes compétences, projets et expériences en développement informatique.
 
-## Technologies utilisées
+##💻 Technologies utilisées
 
 Ce projet est construit avec:
 - React
@@ -13,7 +13,7 @@ Ce projet est construit avec:
 - Tailwind CSS
 - shadcn/ui
 
-## Installation locale
+##⚙ Installation locale
 
 1. Clonez le repository
 2. Installez les dépendances: `npm install`
