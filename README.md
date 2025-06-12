@@ -1,5 +1,5 @@
 
-# Portfolio de Yanis Boussaid
+# Portfolio de Yanis
 
 ## 📍 À propos
 
